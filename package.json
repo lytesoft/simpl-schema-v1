@@ -1,18 +1,13 @@
 {
-  "name": "simpl-schema",
+  "name": "@lytesoft/simpl-schema",
   "version": "1.0.0",
   "description": "A schema validation package that supports direct validation of MongoDB update modifier objects.",
-  "author": "Eric Dobbertin <aldeed@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aldeed/simpl-schema.git",
+    "url": "https://github.com/lytesoft/simpl-schema-v1",
     "directory": "package"
   },
-  "bugs": {
-    "url": "https://github.com/aldeed/simpl-schema/issues"
-  },
-  "homepage": "https://github.com/aldeed/simpl-schema",
   "files": [
     "dist",
     "LICENSE",
